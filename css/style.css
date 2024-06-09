@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Nab";
+  src: url(../fonts/Nab-Regular.ttf);
+}
+
+.bg-primary {
+  background-color: #131821 !important;
+}
+
+body {
+  font-family: "Nab";
+  font-size: large !important;
+}
+
+.grayscale {filter: grayscale(100%);}
+
+.active {
+  color: orange !important;
+}
